@@ -31,7 +31,9 @@ https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/iH9gbH6_SaG7KXZp5D1MyZZ955aIP4hTNE3AWAhiZFrYtLrAb8CBLtLB9ZAPocKU7Pmvka5kOA=s176-c-k-c0x00ffffff-no-rj" tvg-id="", News 24 Extra
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/WvqgAuqN_-nN3HevMO32TMzz8apVPYOIsNvWiOYzO-PGV3sigctEmlJUzL1oQkpzlA62N2WseQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Maasranga News
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+#EXTINF:-1 tvg-name="DEPTO BANGLA HD" tvg-logo="https://sunplex.net/stream/logo/depto-tv.jpg" group-title="Bangladeshi",DEPTO BANGLA HD
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=4111540?stime=20240420134645&etime=20240420135645&encoded=089e4b209fd93269258bf
 #EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721938695/ei/p16iZo2ADJqFkucPoby-KA/ip/20.51.206.103/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAU1yQr8wnIJe7Jx-cOVi_fGXR944DYkqqmKAm-rFxJ2QN7eR0dH_GvyFfGI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJup2xw-jNamix--vcw57I90BMJ8jwO0yQYlmrcoX15vAiEAgTezhr-_Du0jxmFyiJAhDeF-mQPKkheQ4G5BhuDtyVI%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mGInWY5NqAdwf25hydl8yex5nuT7vcEqmoT4VKSyiDNLm3=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Reuters
