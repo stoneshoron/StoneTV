@@ -464,3 +464,13 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1721982824:KeyName=tsports-ed25519-01:Signature=Tgogr3eAGg10h-zDIHYx_fnbWv4iWcLPvXd8DZcCZP7ptgJbpR9fpMlKmR22CYfR9yulKo_6NyhClN9fy8ulBA",
     "drmScheme": "",
     "drmLicense": ""
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg" group-title="LIVE EVENTS(Stone-Tv)", T Sports 1 HD
+https://live-cdn.tsports.com/live-02/index.m3u8
+
+
+
+
